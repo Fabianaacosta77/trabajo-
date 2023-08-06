@@ -1,0 +1,17 @@
+li{
+    color: red;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.días{
+    font-weight: bold;
+    color: coral;
+    font-size: 50px;
+}
+.horarios{
+    font-style: italic; 
+
+}
